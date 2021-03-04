@@ -12,7 +12,7 @@ h1 {
 	font-size: 3em;
 }
 
-p {
+p, ul {
 	font-family: "Times New Roman", serif;
 	color: #497335;
 	max-width: 30em;
@@ -31,8 +31,3 @@ img.logo {
 	margin: 2em auto;
 }
 
-.taxi-pic {
- width: 1000px;
- height: 562px;
- border: 10px solid #333;
-}
