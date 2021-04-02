@@ -8,8 +8,10 @@ body {
 }
 
 h1 {
-	color: #497335;
+	color: #efefef;
 	font-size: 3em;
+	background: #000;
+	padding: 1em;
 }
 
 .page-content {
